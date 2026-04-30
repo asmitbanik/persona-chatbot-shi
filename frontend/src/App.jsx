@@ -19,7 +19,7 @@ function App() {
         
         {/* 🎀 Title */}
         <h1 className="text-xl md:text-2xl font-semibold text-pink-600 mb-3 md:mb-0 tracking-tight">
-          ₊✩‧₊˚౨ৎ˚₊✩‧₊ Persona-Based AI Chatbot ₊✩‧₊˚౨ৎ˚₊✩‧₊
+          Persona AI Chatbot
 
         </h1>
 
